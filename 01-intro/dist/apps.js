@@ -1,3 +1,6 @@
 console.log('APP.ts');
-class Person {
-}
+var Person = /** @class */ (function () {
+    function Person() {
+    }
+    return Person;
+}());
